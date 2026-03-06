@@ -4,7 +4,8 @@
 
 ### 预测互联网未来的智能代理 · Internet Prediction Engine
 
-<img width="260" src="https://github.com/user-attachments/assets/69493552-1aa4-4753-a893-bd0d38f3522b" />
+<img width="409" height="428" alt="Screenshot 2026-03-06 155551" src="https://github.com/user-attachments/assets/8b6a2627-ff18-492a-9256-1a6d295701b4" />
+
 
 <br>
 
