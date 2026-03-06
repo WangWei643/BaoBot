@@ -1,0 +1,11 @@
+[project]
+name = "baobot"
+version = "0.1.0"
+description = "BaoBot prediction engine"
+authors = [{name="BaoBot"}]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
